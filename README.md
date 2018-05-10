@@ -5,3 +5,7 @@
 
 - 官方网站：https://www.xmind.net/
 - 中文官网：https://www.xmind.cn/
+
+> 下面有一个简单的安装入门教程
+
+- Xmind使用入门：https://mounui.com/196.html
