@@ -9,3 +9,4 @@
 > 下面有一个简单的安装入门教程
 
 - Xmind使用入门：https://mounui.com/196.html
+- Xmind激活：[XmindCrack](https://github.com/mounui/Xmind/tree/master/XMindCrack#xmind%E6%BF%80%E6%B4%BB)
